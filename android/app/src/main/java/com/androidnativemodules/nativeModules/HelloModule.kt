@@ -27,7 +27,7 @@ class HelloModule(reactContext: ReactApplicationContext): ReactContextBaseJavaMo
     }
 
     companion object {
-        private const val MODULE_NAME = "Module"
+        private const val MODULE_NAME = "HelloModule"
         private const val EVENT_RESULT_TAG = "EVENT_RESULT"
     }
 }
